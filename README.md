@@ -1,1 +1,1 @@
-# cloud-native-game-store-config-server
+# Cloud Native Game Store Config Server
